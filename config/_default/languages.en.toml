@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "The Comment Riders"
+logo = "img/logo.png"
+description = "A Kamen Rider review podcast, starring Toby and Josh"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "The Comment Riders!"
+  # image = "img/tvsmall.png"
+  headline = "A Kamen Rider review podcast, starring <a href=\"https://twitter.com/lifeoftobes\">Toby</a> and <a href=\"https://twitter.com/prettydecejosh\">Josh</a>"
+  bio = "The best show about Kamen Rider starring two guys named Toby & Josh"
+   links = [
+     { link = "http://kamenridersucks.com" },
+     {youtube = "https://www.youtube.com/playlist?list=PLdHoG34M9AsagQXTqYMXGo-ObHOP4Y1Vi"},
+     { apple = "https://podcasts.apple.com/us/podcast/the-comment-riders-a-kamen-rider-review-podcast/id1648563264"},
+     {google = "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iZGM4MGExMC9wb2RjYXN0L3Jzcw"},
+     {rss = "https://anchor.fm/s/bdc80a10/podcast/rss"}
+   ]

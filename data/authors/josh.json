@@ -1,0 +1,9 @@
+{
+    "name": "Josh",
+    "image" : "img/josh_avatar.jpeg",
+    "bio": "The Über Geek",
+    "social": [
+        { "twitter": "https://twitter.com/prettydecejosh" },
+        { "tumblr": "https://prettydecejosh.tumblr.com" }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Toby",
+    "image" : "img/toby_avatar.jpeg",
+    "bio": "Pun-master",
+    "social": [
+        { "twitter": "https://twitter.com/lifeoftobes" },
+        { "youtube": "https://youtube.com/tobesplays" }
+    ]
+}
