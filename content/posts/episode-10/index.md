@@ -12,11 +12,13 @@ date: 2022-12-09
 draft: false
 ---
 
-{{< youtube oSWgfESxzlA >}}
-
 {{<lead>}}
 The Comment Riders are Toby and Josh and they are watching and reviewing Kamen Rider Geats!
 {{</lead>}}
+
+{{< figure src="cover.gif">}}
+
+{{< youtube oSWgfESxzlA >}}
 
 In this episode, we find out Ace's wish upon winning the Desire Grand Prix was... to make Tsumuri his sister?!?
 
