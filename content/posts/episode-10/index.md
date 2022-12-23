@@ -26,9 +26,9 @@ Also in this episode, a new batch of Kamen Riders are recruited as a brand new D
 
 **Email Us:** cast@kamenridersucks.com
 
-**Follow Josh:**&nbsp;&nbsp; <a href='https://twitter.com/PrettyDeceJosh'>{{< icon "twitter" >}}</a> <a href='https://prettydecejosh.tumblr.com'>{{< icon "Tumblr" >}}</a> <a href='https://www.youtube.com/prettydece'>{{< icon "YouTube" >}}</a>
+**Follow Josh:**&nbsp;&nbsp; <a href='https://twitter.com/PrettyDeceJosh'>{{< icon "twitter" >}}</a> <a href='https://prettydecejosh.tumblr.com'>{{< icon "tumblr" >}}</a> <a href='https://www.youtube.com/prettydece'>{{< icon "youtube" >}}</a>
 
-**Follow Toby:**&nbsp;&nbsp; <a href='https://twitter.com/LifeOfTobes'>{{< icon "twitter" >}}</a> <a href='https://www.youtube.com/tobesplays'>{{< icon "YouTube" >}}</a>
+**Follow Toby:**&nbsp;&nbsp; <a href='https://twitter.com/LifeOfTobes'>{{< icon "twitter" >}}</a> <a href='https://www.youtube.com/tobesplays'>{{< icon "youtube" >}}</a>
 
 **Video Playlist** http://kamenridersucks.com
 
