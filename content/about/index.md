@@ -14,7 +14,7 @@ Type: page
 
 ## Who We Are
 
-Hi! We're Josh Meek "the ¨ber Geek" and Toby Tobes! We've been friends for a really long time, and bonded over our mutual love of pro wrestling, Power Rangers, and punk rock.
+Hi! We're Josh Meek "the Über Geek" and Toby Tobes! We've been friends for a really long time, and bonded over our mutual love of pro wrestling, Power Rangers, and punk rock.
 
 ## What We've Done
 
