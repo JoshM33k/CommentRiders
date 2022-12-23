@@ -32,7 +32,7 @@ Also in this episode, we see the culmination of the excellent "Resident Evil" in
 
 **Video Playlist** http://kamenridersucks.com
 
-<iframe src="https://anchor.fm/commentriders/embed/episodes/Kamen-Rider-Geats-11---Right-in-the-Bus-hole-e1sc9jj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/commentriders/embed/episodes/Kamen-Rider-Geats-12---The-Head-Goes-In-The-Butt-e1skipn" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 <p>
 
