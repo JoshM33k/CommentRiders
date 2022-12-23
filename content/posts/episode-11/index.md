@@ -16,8 +16,6 @@ draft: false
 The Comment Riders are Toby and Josh and they are watching and reviewing Kamen Rider Geats!
 {{</lead>}}
 
-{{< figure src="cover.gif">}}
-
 {{< youtube 1QtjXaLF_tg >}}
 
 In this episode, the Jyamato exhibit surprising new abilities, as we find out they can transform into nightmare versions of Kamen Riders!

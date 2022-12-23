@@ -16,11 +16,7 @@ draft: false
 The Comment Riders are Toby and Josh and they are watching and reviewing Kamen Rider Geats!
 {{</lead>}}
 
-{{< figure src="cover.gif">}}
-
 {{< youtube hXjZDw2MSd8 >}}
-
-
 
 In this episode, Keiwa returns to his former glory as he regains his memory and rejoins the Desire Grand Prix!
 
